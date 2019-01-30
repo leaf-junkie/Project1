@@ -1,4 +1,4 @@
 
-for (let index = 0; index < 9; index++) {
+for (let index = 0; index < 7; index++) {
     console.log('HELLO WORLD')    
 }
